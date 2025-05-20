@@ -23,12 +23,12 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Lossophy/BINA-Projekt/blob/main/FRAGE%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Lossophy/BINA-Projekt/blob/main/Frage%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -98,7 +98,7 @@
         "id": "yalv4mNRMNpP",
         "outputId": "aeda7331-20de-4a90-cf23-e15c2d9e9c5c"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -477,7 +477,7 @@
       "metadata": {
         "id": "dLnneSNUMxca"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -546,7 +546,7 @@
         "id": "SHb4WSqfLHq9",
         "outputId": "4f9e7f30-6c21-4a0c-ca58-8266964bbd99"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -662,7 +662,7 @@
         "id": "tosQ-4ZZLJxz",
         "outputId": "5790f341-d5a7-4b95-81a8-d21d4b6d1192"
       },
-      "execution_count": 43,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
